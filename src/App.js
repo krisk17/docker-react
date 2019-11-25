@@ -20,7 +20,7 @@ function App() {
         </a>
       </header>
       <p className="App-info">
-        I was there
+        I was changed on feature
       </p>
     </div>
   );
